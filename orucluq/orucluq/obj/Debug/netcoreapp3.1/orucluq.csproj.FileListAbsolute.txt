@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\orucluq\orucluq\bin\Debug\netcoreapp3.1\orucluq.exe
+C:\Users\acer\source\repos\orucluq\orucluq\bin\Debug\netcoreapp3.1\orucluq.deps.json
+C:\Users\acer\source\repos\orucluq\orucluq\bin\Debug\netcoreapp3.1\orucluq.runtimeconfig.json
+C:\Users\acer\source\repos\orucluq\orucluq\bin\Debug\netcoreapp3.1\orucluq.runtimeconfig.dev.json
+C:\Users\acer\source\repos\orucluq\orucluq\bin\Debug\netcoreapp3.1\orucluq.dll
+C:\Users\acer\source\repos\orucluq\orucluq\bin\Debug\netcoreapp3.1\orucluq.pdb
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.AssemblyInfo.cs
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.dll
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.pdb
+C:\Users\acer\source\repos\orucluq\orucluq\obj\Debug\netcoreapp3.1\orucluq.genruntimeconfig.cache
